@@ -10,12 +10,10 @@ En construcción.
 
 ## Requisitos
 - .NET SDK (ver `global.json`)
-
--Requisito A
--Requisito B
--Requisito C
--Requisito D 
-
+-Requisitos A
+-Requisitos B
+-Requisitos C
+-Requisitos D
 ## Flujo de trabajo
 GitHub Flow: `main` protegida, ramas cortas y Pull Requests.
 
